@@ -1,2 +1,2 @@
-# dio-bootcamp-potenciaTechIfood
-DIO - Bootcamp Potência Tech iFood - JavaScript, web e game dev
+# Bootcamp Potência Tech iFood - DIO
+Bootcamp sobre JavaScript, desenvolvimento Web e game dev.
